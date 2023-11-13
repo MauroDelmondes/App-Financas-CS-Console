@@ -1,0 +1,14 @@
+C:\Users\mauro\Projects\App-Financas\bin\Debug\net6.0\App-Financas.exe
+C:\Users\mauro\Projects\App-Financas\bin\Debug\net6.0\App-Financas.deps.json
+C:\Users\mauro\Projects\App-Financas\bin\Debug\net6.0\App-Financas.runtimeconfig.json
+C:\Users\mauro\Projects\App-Financas\bin\Debug\net6.0\App-Financas.dll
+C:\Users\mauro\Projects\App-Financas\bin\Debug\net6.0\App-Financas.pdb
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.AssemblyInfoInputs.cache
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.AssemblyInfo.cs
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.dll
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\refint\App-Financas.dll
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.pdb
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\App-Financas.genruntimeconfig.cache
+C:\Users\mauro\Projects\App-Financas\obj\Debug\net6.0\ref\App-Financas.dll
